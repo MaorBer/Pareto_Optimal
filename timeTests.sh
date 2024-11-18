@@ -11,3 +11,4 @@ echo "Running DP solution with U=20"
 time ./dp <<EOF
 20
 EOF
+ 
