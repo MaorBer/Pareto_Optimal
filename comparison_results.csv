@@ -1,21 +1,71 @@
-U,Naive Time (s),DP Time (s)
-1,.095538,.001957
-2,.096866,.002247
-3,.095707,.001856
-4,.093752,.001982
-5,.097972,.001937
-6,.095951,.001953
-7,.098045,.001852
-8,.098583,.002026
-9,.097519,.002246
-10,.098928,.001694
-11,.095858,.002029
-12,.095259,.001890
-13,.095275,.002046
-14,.098134,.001819
-15,.097456,.001976
-16,.093985,.001955
-17,.095595,.002023
-18,.097517,.002027
-19,.095114,.001995
-20,.097047,.001739
+U,Naive Time (s),DP Time (s),Naive Result,DP Result
+0,.105821,.002045,Enter the rejection cost limit (U): Minimum Processing Time: 845,Enter the rejection cost limit (U): Minimum Processing Time: 845
+1,.093157,.002259,Enter the rejection cost limit (U): Minimum Processing Time: 795,Enter the rejection cost limit (U): Minimum Processing Time: 795
+2,.097798,.002239,Enter the rejection cost limit (U): Minimum Processing Time: 745,Enter the rejection cost limit (U): Minimum Processing Time: 745
+3,.096655,.002305,Enter the rejection cost limit (U): Minimum Processing Time: 645,Enter the rejection cost limit (U): Minimum Processing Time: 645
+4,.097727,.002122,Enter the rejection cost limit (U): Minimum Processing Time: 595,Enter the rejection cost limit (U): Minimum Processing Time: 595
+5,.095610,.002213,Enter the rejection cost limit (U): Minimum Processing Time: 545,Enter the rejection cost limit (U): Minimum Processing Time: 545
+6,.100887,.002104,Enter the rejection cost limit (U): Minimum Processing Time: 505,Enter the rejection cost limit (U): Minimum Processing Time: 505
+7,.098617,.002022,Enter the rejection cost limit (U): Minimum Processing Time: 465,Enter the rejection cost limit (U): Minimum Processing Time: 465
+8,.098979,.002082,Enter the rejection cost limit (U): Minimum Processing Time: 465,Enter the rejection cost limit (U): Minimum Processing Time: 465
+9,.095356,.002246,Enter the rejection cost limit (U): Minimum Processing Time: 440,Enter the rejection cost limit (U): Minimum Processing Time: 440
+10,.095706,.002263,Enter the rejection cost limit (U): Minimum Processing Time: 440,Enter the rejection cost limit (U): Minimum Processing Time: 440
+11,.098655,.002219,Enter the rejection cost limit (U): Minimum Processing Time: 415,Enter the rejection cost limit (U): Minimum Processing Time: 415
+12,.098290,.001929,Enter the rejection cost limit (U): Minimum Processing Time: 415,Enter the rejection cost limit (U): Minimum Processing Time: 415
+13,.096348,.002105,Enter the rejection cost limit (U): Minimum Processing Time: 390,Enter the rejection cost limit (U): Minimum Processing Time: 390
+14,.099654,.002146,Enter the rejection cost limit (U): Minimum Processing Time: 390,Enter the rejection cost limit (U): Minimum Processing Time: 390
+15,.097854,.002090,Enter the rejection cost limit (U): Minimum Processing Time: 385,Enter the rejection cost limit (U): Minimum Processing Time: 385
+16,.096055,.002053,Enter the rejection cost limit (U): Minimum Processing Time: 370,Enter the rejection cost limit (U): Minimum Processing Time: 370
+17,.097223,.001759,Enter the rejection cost limit (U): Minimum Processing Time: 360,Enter the rejection cost limit (U): Minimum Processing Time: 360
+18,.096190,.002126,Enter the rejection cost limit (U): Minimum Processing Time: 355,Enter the rejection cost limit (U): Minimum Processing Time: 355
+19,.095675,.002128,Enter the rejection cost limit (U): Minimum Processing Time: 345,Enter the rejection cost limit (U): Minimum Processing Time: 345
+20,.098859,.002221,Enter the rejection cost limit (U): Minimum Processing Time: 340,Enter the rejection cost limit (U): Minimum Processing Time: 340
+21,.097366,.002130,Enter the rejection cost limit (U): Minimum Processing Time: 330,Enter the rejection cost limit (U): Minimum Processing Time: 330
+22,.095825,.002205,Enter the rejection cost limit (U): Minimum Processing Time: 325,Enter the rejection cost limit (U): Minimum Processing Time: 325
+23,.095169,.001871,Enter the rejection cost limit (U): Minimum Processing Time: 315,Enter the rejection cost limit (U): Minimum Processing Time: 315
+24,.094823,.002073,Enter the rejection cost limit (U): Minimum Processing Time: 310,Enter the rejection cost limit (U): Minimum Processing Time: 310
+25,.091234,.002032,Enter the rejection cost limit (U): Minimum Processing Time: 300,Enter the rejection cost limit (U): Minimum Processing Time: 300
+26,.093872,.002007,Enter the rejection cost limit (U): Minimum Processing Time: 295,Enter the rejection cost limit (U): Minimum Processing Time: 295
+27,.090437,.002060,Enter the rejection cost limit (U): Minimum Processing Time: 285,Enter the rejection cost limit (U): Minimum Processing Time: 285
+28,.092387,.001869,Enter the rejection cost limit (U): Minimum Processing Time: 280,Enter the rejection cost limit (U): Minimum Processing Time: 280
+29,.093282,.002038,Enter the rejection cost limit (U): Minimum Processing Time: 270,Enter the rejection cost limit (U): Minimum Processing Time: 270
+30,.091900,.002171,Enter the rejection cost limit (U): Minimum Processing Time: 265,Enter the rejection cost limit (U): Minimum Processing Time: 265
+31,.091500,.002174,Enter the rejection cost limit (U): Minimum Processing Time: 260,Enter the rejection cost limit (U): Minimum Processing Time: 260
+32,.088984,.002145,Enter the rejection cost limit (U): Minimum Processing Time: 250,Enter the rejection cost limit (U): Minimum Processing Time: 250
+33,.089467,.001953,Enter the rejection cost limit (U): Minimum Processing Time: 240,Enter the rejection cost limit (U): Minimum Processing Time: 240
+34,.092108,.002040,Enter the rejection cost limit (U): Minimum Processing Time: 235,Enter the rejection cost limit (U): Minimum Processing Time: 235
+35,.089767,.001973,Enter the rejection cost limit (U): Minimum Processing Time: 230,Enter the rejection cost limit (U): Minimum Processing Time: 230
+36,.091834,.002109,Enter the rejection cost limit (U): Minimum Processing Time: 220,Enter the rejection cost limit (U): Minimum Processing Time: 220
+37,.091358,.002075,Enter the rejection cost limit (U): Minimum Processing Time: 215,Enter the rejection cost limit (U): Minimum Processing Time: 215
+38,.092239,.002042,Enter the rejection cost limit (U): Minimum Processing Time: 205,Enter the rejection cost limit (U): Minimum Processing Time: 205
+39,.094642,.002200,Enter the rejection cost limit (U): Minimum Processing Time: 200,Enter the rejection cost limit (U): Minimum Processing Time: 200
+40,.093012,.002016,Enter the rejection cost limit (U): Minimum Processing Time: 190,Enter the rejection cost limit (U): Minimum Processing Time: 190
+41,.095206,.002111,Enter the rejection cost limit (U): Minimum Processing Time: 185,Enter the rejection cost limit (U): Minimum Processing Time: 185
+42,.094967,.002068,Enter the rejection cost limit (U): Minimum Processing Time: 180,Enter the rejection cost limit (U): Minimum Processing Time: 180
+43,.096198,.002281,Enter the rejection cost limit (U): Minimum Processing Time: 170,Enter the rejection cost limit (U): Minimum Processing Time: 170
+44,.092489,.002029,Enter the rejection cost limit (U): Minimum Processing Time: 165,Enter the rejection cost limit (U): Minimum Processing Time: 165
+45,.094084,.002379,Enter the rejection cost limit (U): Minimum Processing Time: 155,Enter the rejection cost limit (U): Minimum Processing Time: 155
+46,.098094,.002106,Enter the rejection cost limit (U): Minimum Processing Time: 150,Enter the rejection cost limit (U): Minimum Processing Time: 150
+47,.097523,.001957,Enter the rejection cost limit (U): Minimum Processing Time: 140,Enter the rejection cost limit (U): Minimum Processing Time: 140
+48,.097380,.002137,Enter the rejection cost limit (U): Minimum Processing Time: 135,Enter the rejection cost limit (U): Minimum Processing Time: 135
+49,.096085,.001796,Enter the rejection cost limit (U): Minimum Processing Time: 130,Enter the rejection cost limit (U): Minimum Processing Time: 130
+50,.098260,.002309,Enter the rejection cost limit (U): Minimum Processing Time: 120,Enter the rejection cost limit (U): Minimum Processing Time: 120
+51,.098005,.002394,Enter the rejection cost limit (U): Minimum Processing Time: 115,Enter the rejection cost limit (U): Minimum Processing Time: 115
+52,.095489,.002199,Enter the rejection cost limit (U): Minimum Processing Time: 105,Enter the rejection cost limit (U): Minimum Processing Time: 105
+53,.098271,.002423,Enter the rejection cost limit (U): Minimum Processing Time: 100,Enter the rejection cost limit (U): Minimum Processing Time: 100
+54,.100500,.002235,Enter the rejection cost limit (U): Minimum Processing Time: 95,Enter the rejection cost limit (U): Minimum Processing Time: 95
+55,.097959,.002115,Enter the rejection cost limit (U): Minimum Processing Time: 85,Enter the rejection cost limit (U): Minimum Processing Time: 85
+56,.099796,.002147,Enter the rejection cost limit (U): Minimum Processing Time: 80,Enter the rejection cost limit (U): Minimum Processing Time: 80
+57,.096166,.002078,Enter the rejection cost limit (U): Minimum Processing Time: 70,Enter the rejection cost limit (U): Minimum Processing Time: 70
+58,.098328,.002041,Enter the rejection cost limit (U): Minimum Processing Time: 65,Enter the rejection cost limit (U): Minimum Processing Time: 65
+59,.097557,.002131,Enter the rejection cost limit (U): Minimum Processing Time: 60,Enter the rejection cost limit (U): Minimum Processing Time: 60
+60,.099189,.002383,Enter the rejection cost limit (U): Minimum Processing Time: 50,Enter the rejection cost limit (U): Minimum Processing Time: 50
+61,.096841,.001921,Enter the rejection cost limit (U): Minimum Processing Time: 50,Enter the rejection cost limit (U): Minimum Processing Time: 50
+62,.098682,.002318,Enter the rejection cost limit (U): Minimum Processing Time: 45,Enter the rejection cost limit (U): Minimum Processing Time: 45
+63,.098522,.002183,Enter the rejection cost limit (U): Minimum Processing Time: 30,Enter the rejection cost limit (U): Minimum Processing Time: 30
+64,.097539,.002449,Enter the rejection cost limit (U): Minimum Processing Time: 30,Enter the rejection cost limit (U): Minimum Processing Time: 30
+65,.098141,.001998,Enter the rejection cost limit (U): Minimum Processing Time: 30,Enter the rejection cost limit (U): Minimum Processing Time: 30
+66,.100145,.002370,Enter the rejection cost limit (U): Minimum Processing Time: 15,Enter the rejection cost limit (U): Minimum Processing Time: 15
+67,.098171,.001882,Enter the rejection cost limit (U): Minimum Processing Time: 15,Enter the rejection cost limit (U): Minimum Processing Time: 15
+68,.098508,.002583,Enter the rejection cost limit (U): Minimum Processing Time: 15,Enter the rejection cost limit (U): Minimum Processing Time: 15
+69,.097145,.002225,Enter the rejection cost limit (U): Minimum Processing Time: 0,Enter the rejection cost limit (U): Minimum Processing Time: 0
